@@ -1,2 +1,2 @@
-# test_repository
+# pizza_repository
 This repository is needed for tests.
